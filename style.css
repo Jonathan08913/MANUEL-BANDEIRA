@@ -1,0 +1,11 @@
+.cabecalho{
+    background: blue;
+color: antiquewhite;
+display: flex;
+justify-content: space-around;
+}
+.cabecalho-img{
+width: 30%;
+}
+.item{  display: inline-block;
+}
