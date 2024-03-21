@@ -1,11 +1,19 @@
+*{
+ margin:0 ;  
+padding:0 ;
+}
 .cabecalho{
-    background: blue;
+    background: rgb(206, 85, 85);
 color: antiquewhite;
 display: flex;
 justify-content: space-around;
+padding: 24px 0;
 }
 .cabecalho-img{
-width: 30%;
+width: 20%;
 }
 .item{  display: inline-block;
+    margin: 0 16px;
+    padding: 24px 0;
+    font-size: 24px;
 }
